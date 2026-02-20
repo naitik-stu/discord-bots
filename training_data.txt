@@ -1,0 +1,128 @@
+Q: How do I get started on this server?
+A: Welcome! To get started, read the #rules channel, then introduce yourself in #introductions. You can also check out our #guides channel for helpful tutorials.
+
+Q: What's the server's timezone?
+A: Our server operates on EST/EDT (Eastern Time). Most events are scheduled in this timezone.
+
+Q: How do I get roles?
+A: You can get roles by reacting to messages in the #roles channel or by asking a moderator. Some roles are automatically assigned based on your activity.
+
+Q: What are the server rules?
+A: Our server rules are posted in the #rules channel. The main rules include: be respectful to all members, no spamming, no NSFW content, and follow Discord's Terms of Service.
+
+Q: Who are the moderators?
+A: You can identify moderators by their special roles and colors. They have permissions to manage channels and members. You can always tag @Moderator for help.
+
+Q: How do I report a problem?
+A: To report an issue, create a ticket in the #tickets channel or DM a moderator directly. Please provide as much detail as possible about the issue.
+
+Q: What voice channels are available?
+A: We have several voice channels including General Chat, Gaming, Study Room, and Music Lounge. Feel free to join any that interest you!
+
+Q: Can I invite friends to the server?
+A: Yes! You can invite friends using the server invite link in the #invites channel. Please make sure your friends will follow our server rules.
+
+Q: How do I use the music bot?
+A: Type !play followed by a song name or URL in any voice channel. Use !help for a full list of music commands.
+
+Q: What events does the server host?
+A: We host regular events including game nights, movie nights, and community discussions. Check the #events channel for upcoming activities.
+
+Q: How do I suggest new features?
+A: We love suggestions! Post your ideas in the #suggestions channel. Our team reviews all suggestions regularly.
+
+Q: How do I level up?
+A: You gain XP by sending messages and participating in voice channels. Higher levels unlock special roles and perks.
+
+Q: Can I create my own channel?
+A: Premium members can create temporary voice channels. For permanent channels, please submit a suggestion in #suggestions.
+
+Q: What should I do if I see someone breaking rules?
+A: Report it immediately to moderators using !report command or by DMing a moderator with evidence.
+
+Q: How do I get help with technical issues?
+A: For technical help, post in #tech-support with details about your issue. Our tech team will assist you as soon as possible.
+
+Q: I'm new here, what should I do first?
+A: Welcome! Start by reading the #rules channel, then introduce yourself in #introductions. You can also check out our #guides channel for helpful tutorials.
+
+Q: Server timezone?
+A: Our server operates on EST/EDT (Eastern Time). Most events are scheduled in this timezone.
+
+Q: Timezone of the server?
+A: Our server operates on EST/EDT (Eastern Time). Most events are scheduled in this timezone.
+
+Q: What time is it in the server?
+A: Our server operates on EST/EDT (Eastern Time). Most events are scheduled in this timezone.
+
+Q: How can I assign roles to myself?
+A: You can get roles by reacting to messages in the #roles channel or by asking a moderator. Some roles are automatically assigned based on your activity.
+
+Q: Role assignment?
+A: You can get roles by reacting to messages in the #roles channel or by asking a moderator. Some roles are automatically assigned based on your activity.
+
+Q: Guidelines for the server?
+A: Our server rules are posted in the #rules channel. The main rules include: be respectful to all members, no spamming, no NSFW content, and follow Discord's Terms of Service.
+
+Q: Server guidelines?
+A: Our server rules are posted in the #rules channel. The main rules include: be respectful to all members, no spamming, no NSFW content, and follow Discord's Terms of Service.
+
+Q: Who are the mods?
+A: You can identify moderators by their special roles and colors. They have permissions to manage channels and members. You can always tag @Moderator for help.
+
+Q: Who are the admins?
+A: You can identify moderators by their special roles and colors. They have permissions to manage channels and members. You can always tag @Moderator for help.
+
+Q: How do I report someone?
+A: To report an issue, create a ticket in the #tickets channel or DM a moderator directly. Please provide as much detail as possible about the issue.
+
+Q: I need to report an issue
+A: To report an issue, create a ticket in the #tickets channel or DM a moderator directly. Please provide as much detail as possible about the issue.
+
+Q: What VC channels are there?
+A: We have several voice channels including General Chat, Gaming, Study Room, and Music Lounge. Feel free to join any that interest you!
+
+Q: Voice chat channels?
+A: We have several voice channels including General Chat, Gaming, Study Room, and Music Lounge. Feel free to join any that interest you!
+
+Q: Can I add friends to this server?
+A: Yes! You can invite friends using the server invite link in the #invites channel. Please make sure your friends will follow our server rules.
+
+Q: How do I share this server?
+A: Yes! You can invite friends using the server invite link in the #invites channel. Please make sure your friends will follow our server rules.
+
+Q: Music bot commands?
+A: Type !play followed by a song name or URL in any voice channel. Use !help for a full list of music commands.
+
+Q: How to play music?
+A: Type !play followed by a song name or URL in any voice channel. Use !help for a full list of music commands.
+
+Q: What activities happen here?
+A: We host regular events including game nights, movie nights, and community discussions. Check the #events channel for upcoming activities.
+
+Q: Server activities?
+A: We host regular events including game nights, movie nights, and community discussions. Check the #events channel for upcoming activities.
+
+Q: How can I give feedback?
+A: We love suggestions! Post your ideas in the #suggestions channel. Our team reviews all suggestions regularly.
+
+Q: Where do I post ideas?
+A: We love suggestions! Post your ideas in the #suggestions channel. Our team reviews all suggestions regularly.
+
+Q: How do I rank up?
+A: You gain XP by sending messages and participating in voice channels. Higher levels unlock special roles and perks.
+
+Q: How to gain experience?
+A: You gain XP by sending messages and participating in voice channels. Higher levels unlock special roles and perks.
+
+Q: Can I make a new channel?
+A: Premium members can create temporary voice channels. For permanent channels, please submit a suggestion in #suggestions.
+
+Q: Someone is breaking rules, what do I do?
+A: Report it immediately to moderators using !report command or by DMing a moderator with evidence.
+
+Q: I need technical support
+A: For technical help, post in #tech-support with details about your issue. Our tech team will assist you as soon as possible.
+
+Q: Tech help?
+A: For technical help, post in #tech-support with details about your issue. Our tech team will assist you as soon as possible.
