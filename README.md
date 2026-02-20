@@ -37,8 +37,6 @@ pip install -r requirements.txt
 ```env
 DISCORD_TOKEN=your_discord_bot_token_here
 OPENAI_API_KEY=your_openai_api_key_here
-TICKET_CHANNEL_ID=123456789012345678
-LOG_CHANNEL_ID=123456789012345678
 ```
 
 ### 4. Prepare Training Data
